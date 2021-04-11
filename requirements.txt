@@ -1,0 +1,12 @@
+albumentations==0.5.2
+torch==1.8.1
+torchaudio==0.8.1
+torchvision==0.9.1
+pandas==1.2.2
+numpy==1.19.5
+scikit-image==0.18.1
+scikit-learn==0.24.1
+plotly==4.14.3
+matplotlib-base==3.3.4
+h5py==2.10.0
+nibabel==3.2.1
